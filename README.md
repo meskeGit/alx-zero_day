@@ -1,1 +1,1 @@
-My first readme
+Try to read this message before usage
